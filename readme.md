@@ -8,7 +8,7 @@ Aplicația este construită folosind .NET Framework în limbajul C#, iar pentru 
 
 # Instalare și configurare
 
-Pentru a executa proiectul trebuie instalat un runtime pentru Access Database. Fișierul se găsește la secțiunea Releases.
+Pentru a executa proiectul trebuie instalat un runtime pentru Access Database, ce poate fi descărcat [aici](https://www.microsoft.com/en-us/download/details.aspx?id=13255).
 
 Deasemenea în directorul unde este prezent executabilul proiectului trebuie să fie amplasat fișierul bazei de date, cu numele `BazaDate.mdb`. Un fișier eșanțion pentru baza de date este inclus la secțiunea Releases.
 
